@@ -16,13 +16,3 @@
 .moccasin{background-color: moccasin;}
 .deepskyblue{background-color: deepskyblue;}
 .white{background-color: white;}
-
-  /*max-width: 800px;
-row > .el { border: 0.3px solid #000; flex: 1 1 auto;
- text-align: center;  }*/
-  /*.el:nth-of-type(1) { flex: 0.5; padding: 25px 25px;}
- .el:nth-of-type(2) { flex: 0.1;padding: 50px 25px; }
-  .el:nth-of-type(3) {padding: 25px 25px; }
------------------------------------------------------------
- .forone{margin: 0px auto; max-width: 800px;max-height: 1000px; display: flex;flex-direction: row; align-self: stretch;}
- */
